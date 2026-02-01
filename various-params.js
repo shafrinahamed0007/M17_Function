@@ -31,15 +31,14 @@ function doubleOrTriple(number, doDouble) {
 // console.log(doubleOrTriple(5 , true));
 // console.log(doubleOrTriple(5 , false));
 
-function numberOfElements(numbers){
-    const len = numbers.length;
-    return len;
+function numberOfElements(numbers) {
+  const len = numbers.length;
+  return len;
 }
 
 // console.log(numberOfElements([12,78,99,14,63,45]));
 
-function getAge(person){
-    const age = person.age;
-    return age;
-    
+function getAge(person) {
+  const age = person.age;
+  return age;
 }
