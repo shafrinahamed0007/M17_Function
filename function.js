@@ -21,3 +21,14 @@ function brushTeeth(){
 
 // call the function
 brushTeeth();
+
+
+// Example
+
+function sum(x,y){
+    const result = x+y;
+    return result;
+}
+
+const total = sum(5,7);
+console.log(total);
